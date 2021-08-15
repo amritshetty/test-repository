@@ -1,2 +1,3 @@
-# test-repository
-This is a second example
+# My first Repo
+
+Kalob is a awesome teacher. He is really awesome and i just loved his class. 
